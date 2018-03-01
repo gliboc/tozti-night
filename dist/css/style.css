@@ -141,3 +141,7 @@ html.dark {
 .dark .vue-swatches__container:not(.vue-swatches--inline){
 	background-color: #d3d3d3 !important;
 }
+
+.dark .taxonomy .taxonomy-item:hover{
+	background-color: #d3d3d3;
+}
