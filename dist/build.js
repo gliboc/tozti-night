@@ -153,5 +153,3 @@ function pushButton() {
   }
 
 setTimeout(pushButton, 200)
-
-applyDark()
