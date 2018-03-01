@@ -1,0 +1,143 @@
+html.dark {
+	background: #999999;
+}
+
+.dark .main-header {
+	background: #999999;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.17)
+}
+
+.dark .main-sidebar {
+	background: #999999;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.17);
+}
+
+.dark .main-header .notifications, 
+.dark .main-header .logged {
+	border-left-color: transparent;
+}
+
+.dark .boxed {
+	background: #999999;
+}
+
+.dark * {
+	color: #fff !important;
+}
+
+.dark .main-sidebar nav a.active{
+	background: grey;
+}
+
+.dark .main-header .search input::placeholder{
+	color: white;
+}
+
+.dark .main-header .branding {
+	border-right: 2px solid #999999;
+}
+
+.dark .main-content .section{
+	background: grey;
+}
+
+.dark .button{
+	background-color: #999999;
+}
+
+.dark .modal-card-head,
+.dark .modal-card-body,
+.dark .modal-card-foot
+{
+	background-color: #999999;
+}
+
+.dark .input, 
+.dark .taginput .taginput-container.is-focusable, 
+.dark .modal-card-head,
+.dark .modal-card-foot,
+{
+	color: white
+	background-color: #999999;
+}
+
+.dark .input, .taginput .taginput-container.is-focusable, .textarea::autocomplete{
+	color: red;
+}
+
+.dark .sidebar .right-sidebar[data-v-7d622f5c]{
+	border-left-color: transparent;
+	box-shadow: 0 0 3px rgba(0, 0, 0, 0.17);
+}
+
+.dark .dropdown-content{
+	background-color: grey;
+}
+
+.dark .dropdown-item, .dropdown .dropdown-menu .has-link a{
+	background-color: grey;
+	color: white;
+}
+
+.dark .card{
+	color: white;
+	background-color: #999999: 
+}
+
+.dark .tc-sidebar[data-v-c478414a]{
+	background-color: #999999;
+}
+
+.dark .field.has-addons .control .control .button, 
+.dark .field.has-addons .control .control .input,
+.dark .input, 
+.dark .taginput .taginput-container.is-focusable, 
+.dark .textarea,
+.dark .taginput .taginput-container.is-focusable,
+.dark .textarea:not([rows]){
+	background-color: grey;
+	color: white;
+}
+
+.dark .taginput .taginput-container .autocomplete input::placeholder{
+	color: white;
+}
+
+.dark .field.has-addons .control:first-child .control .button, 
+.dark .field.has-addons .control:first-child .control .input, 
+.dark .field.has-addons .control:first-child .control .taginput .taginput-container.is-focusable, 
+.dark .taginput .field.has-addons .control:first-child .control .taginput-container.is-focusable, 
+.dark .field.has-addons .control:first-child .control .select select,
+.dark .field.has-addons .control:last-child .control .button, 
+.dark .field.has-addons .control:last-child .control .input, 
+.dar .field.has-addons .control:last-child .control .taginput .taginput-container.is-focusable, 
+.dark .taginput,
+.field.has-addons .control:last-child .control .taginput-container.is-focusable, 
+.dark .field.has-addons .control:last-child .control .select select{
+	background-color: grey;
+	color: white;
+}
+
+.dark .tcw-entry[data-v-d11f3862],
+.dark .tcm-calendar-entry{
+	background-color: #d3d3d3;
+}
+
+.dark .tcm-greyed-days{
+	background-color: #e6e6e6;
+}
+
+.dark a.dropdown-item:hover, .dropdown .dropdown-menu .has-link a:hover,
+.dark .group-list .group-item:hover .group-content,
+.dark .datepicker .datepicker-table .datepicker-body .datepicker-row .datepicker-cell.is-selectable:hover:not(.is-selected), 
+.dark .datepicker .datepicker-table .datepicker-body .datepicker-row .datepicker-cell.is-selectable:focus:not(.is-selected){
+	background-color: #d3d3d3;
+}
+
+.dark .widget .header{
+	background-color: grey;
+}
+
+.dark .vue-swatches__container:not(.vue-swatches--inline){
+	background-color: #d3d3d3 !important;
+}
